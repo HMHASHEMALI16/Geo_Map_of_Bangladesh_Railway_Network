@@ -20,4 +20,4 @@ This map is shared under the [CC BY-NC-ND 4.0 license](https://creativecommons.o
 
 ## Download
 
-**Look [Releases](https://github.com/HMHASHEMALI16/Geo_Map_of_Bangladesh_Railway_Network/releases) Section**
+**All released map availabe in [Releases](https://github.com/HMHASHEMALI16/Geo_Map_of_Bangladesh_Railway_Network/releases) Section**
