@@ -17,3 +17,7 @@ This map is shared under the [CC BY-NC-ND 4.0 license](https://creativecommons.o
   © HMHashemAli16, 2025
 - Suggestions and Feedback:  
 [facebook.com/hmhashemali16](https://www.facebook.com/hmhashemali16)
+
+## Download
+
+**Look [Releases](https://github.com/HMHASHEMALI16/Geo_Map_of_Bangladesh_Railway_Network/releases) Section**
