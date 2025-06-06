@@ -1,6 +1,6 @@
 # Bangladesh Railway Map 2025
 
-This is a **Geo Map** featuring a detailed, custom-designed railway network of Bangladesh as of 2025.
+This is a **Geo Map** featuring a detailed, custom-designed railway network of Bangladesh as of 2025. It shows all the routes, stations & tracks types of all the area of the country. You can use this map to plan your travel, explore new destinations, or learn more about the rail route.
 
 ## Credits and Data Sources
 
